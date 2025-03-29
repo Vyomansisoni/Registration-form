@@ -3,7 +3,7 @@ A simple web-based student registration form for engineering students. This proj
 
 Features Form Validation: Ensures all required fields are filled out correctly. Dynamic Updates: Displays the number of registered students and their names. Fullscreen Mode: Allows the form to be viewed in fullscreen. Show/Hide Registered Students: Toggle the visibility of the registered students list.
 
-How to Run Clone the Repository:git clone https://github.com/tiwarisristy/engg-registration-form.git Navigate to the Project Directory:cd engg-registration-form Open registration.html in a Web Browser.
+How to Run Clone the Repository:git clone [https://github.com/tiwarisristy/engg-registration-form](https://github.com/Vyomansisoni/Registration-form/tree/main).git Navigate to the Project Directory:cd registration form Open registration.html in a Web Browser.
 
 Files registration.html: Main HTML file containing the structure of the form. style.css: CSS file for styling the form and its elements. script.js: JavaScript file for adding interactivity and dynamic updates to the form.
 
